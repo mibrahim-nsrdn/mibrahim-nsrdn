@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mibrahim-nsrdn
 - 👀 I’m interested in using data analytics for sports performance analysis
-- 🌱 I’m currently learning python, AI/ML for football(soccer) analysis
-- 📫 How to reach me ...
+- 🌱 I’m currently officially learning python,R, and self-directed learning AI/ML for football(soccer) analysis
+- 📫 How to reach me: https://www.linkedin.com/in/ibrahimnas
 - ⚡ Fun fact: Hmm, I managed to build my own PC during COVID lockdown!
 
 <!---
